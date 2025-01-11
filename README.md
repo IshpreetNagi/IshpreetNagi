@@ -7,7 +7,7 @@ I'm Ishpreet, a 4th-year student currently pursuing my Bachelor of Science in Co
 - 🖥️ I am most proficient in the programming languages of Python, Java, and C.
 - 🔭 I am always on the hunt to take on new opportunities and learn new skills.
 - 🌱 I am currently learning web development, how to develop machine learning models, and how to make the perfect latte. 
-- 📫 Feel free to reach me through my [email](mailto:ishpreetnagi@gmail.com)
+- 📫 Feel free to reach me through my email listed on my profile.
 - ⚡ Fun fact: I took professional dance for nearly 4 years. 
 
 <!--
