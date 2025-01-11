@@ -1,6 +1,6 @@
 ## Hello world 👋
 
-I'm Ishpreet, a 4th-year student currently pursuing my Bachelor of Science in Computer Science at McMaster University. I am infatuated with all things tech, but I have a special passion for the art of computer programming, with some of my current interests including machine learning, front-end development, and game development.
+I'm Ishpreet, a 4th-year student currently pursuing my Bachelor of Science in Computer Science at McMaster University. Some of my current programming interests include machine learning, front-end development, and game development.
 
 ### A bit about me:
 
