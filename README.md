@@ -2,7 +2,7 @@
 
 I'm Ishpreet, a 4th-year student pursuing my Bachelor of Science in Computer Science at McMaster University. I am most proficient in the programming languages of Python, Java, and C, and some of my current programming interests include machine learning, front-end development, and game development.
 
-### More about me - 
+### More about me:
 
 - 🔭 I am always on the hunt to take on new opportunities and learn new skills.
 - 🌱 I am currently learning web development, how to develop machine learning models, and how to make the perfect latte. 
