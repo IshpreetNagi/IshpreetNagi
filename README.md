@@ -1,13 +1,10 @@
 ## Hello world 👋
 
-I'm Ishpreet, a 4th-year student pursuing my Bachelor of Science in Computer Science at McMaster University. I am most proficient in the programming languages of Python, Java, and C, and some of my current programming interests include machine learning, front-end development, and game development.
-
-### More about me:
-
-- 🔭 I am always on the hunt to take on new opportunities and learn new skills.
-- 🌱 I am currently learning web development, how to develop machine learning models, and how to make the perfect latte. 
-- 📫 Feel free to reach me through my email.
-- ⚡ Fun fact: I took professional dance for nearly 4 years. 
+- 🧍‍♂️ I'm Ishpreet, a 4th-year student pursuing my Bachelor of Science in Computer Science at McMaster University.
+- 💻 I am proficient in the programming languages of Python, Java, and C.
+- 🌱 My current interests include machine learning, front-end development, and game development.
+- ☕ I currently have an unhealthy obsession with coffee. 
+- 📫 Feel free to reach me at [ishpreetnagi@gmail.com](mailto:ishpreetnagi@gmail.com)
 
 <!--
 **IshpreetNagi/IshpreetNagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
