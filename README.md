@@ -3,7 +3,6 @@
 - 🎓 I am a 4th-year student pursuing my Bachelor of Science in Computer Science at McMaster University.
 - 💻 I am proficient in the programming languages of Python, Java, and C.
 - 🌱 My current interests include machine learning, front-end development, and game development.
-- ☕ I currently have an unhealthy obsession with coffee. 
 - 📫 Feel free to reach me at [ishpreetnagi@gmail.com](mailto:ishpreetnagi@gmail.com)
 
 <!--
