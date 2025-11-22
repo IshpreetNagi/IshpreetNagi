@@ -13,6 +13,8 @@
 
 <h3 align="left">Stats:</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=IshpreetNagi&label=Profile views&color=0e75b6&style=flat" alt="IshpreetNagi" /> </p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=IshpreetNagi&show_icons=true&locale=en&layout=compact" alt="IshpreetNagi" /></p>
 
 <!--
