@@ -2,7 +2,7 @@
 
 - 🎓 I'm a 4th-year student completing my BSc. in Computer Science at McMaster University in Hamilton, Canada
 - 🌱 I'm currently pursuing my interest in game development and learning to develop in Unreal Engine 5.6
-- ⚡ In my free time, I play games (how original, I know) and watch movies
+- ⚡ In my free time, I enjoy playing games and watching movies
 - 📫 Feel free to reach me at [ishpreetnagi@gmail.com](mailto:ishpreetnagi@gmail.com)
 
 ![Snake animation](https://github.com/IshpreetNagi/IshpreetNagi/blob/output/github-contribution-grid-snake-dark.svg)
