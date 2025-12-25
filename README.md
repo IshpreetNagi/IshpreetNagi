@@ -11,13 +11,7 @@
 <a href="https://twitter.com/socialish_" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=ClbD5JTFM7FA&format=png&color=000000" alt="socialish_" height="45" width="45" /></a>
 </p>
 
-<h3 align="left">Stats:</h3>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=IshpreetNagi&label=Profile%20views&color=0e75b6&style=flat" alt="IshpreetNagi">
-</p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IshpreetNagi)](https://github.com/IshpreetNagi/github-readme-stats)
+![Snake animation](https://github.com/IshpreetNagi/IshpreetNagi/blob/output/github-contribution-grid-snake-dark.svg)
 
 <!--
 **IshpreetNagi/IshpreetNagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
