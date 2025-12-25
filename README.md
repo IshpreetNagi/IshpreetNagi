@@ -17,7 +17,7 @@
   <img src="https://komarev.com/ghpvc/?username=IshpreetNagi&label=Profile%20views&color=0e75b6&style=flat" alt="IshpreetNagi">
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=IshpreetNagi&show_icons=true&locale=en&layout=compact" alt="IshpreetNagi" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IshpreetNagi)](https://github.com/IshpreetNagi/github-readme-stats)
 
 <!--
 **IshpreetNagi/IshpreetNagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
