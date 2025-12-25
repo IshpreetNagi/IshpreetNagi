@@ -5,13 +5,11 @@
 - ⚡ In my free time, I play games (how original, I know) and watch movies
 - 📫 Feel free to reach me at [ishpreetnagi@gmail.com](mailto:ishpreetnagi@gmail.com)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ishpreet-nagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishpreet-nagi" height="30" width="40" /></a>
-<a href="https://twitter.com/socialish_" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=ClbD5JTFM7FA&format=png&color=000000" alt="socialish_" height="45" width="45" /></a>
-</p>
-
 ![Snake animation](https://github.com/IshpreetNagi/IshpreetNagi/blob/output/github-contribution-grid-snake-dark.svg)
+
+<p align="left"><i>
+Generated with <a href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid">Platane/snk</a>
+</i></p>
 
 <!--
 **IshpreetNagi/IshpreetNagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
