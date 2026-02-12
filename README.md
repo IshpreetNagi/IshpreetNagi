@@ -1,7 +1,7 @@
 # Hello world, I'm Ishpreet 👋
 
 - 🎓 I'm a 4th-year student completing my BSc. in Computer Science at McMaster University in Hamilton, Canada
-- 🌱 I'm currently pursuing my interest in game development and learning to develop in Unreal Engine 5.6
+- 🌱 I'm currently pursuing my interest in game development and learning to develop in Love Lua
 - ⚡ In my free time, I enjoy playing games and watching movies
 - 📫 Feel free to reach me at [ishpreetnagi@gmail.com](mailto:ishpreetnagi@gmail.com)
 
