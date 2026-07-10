@@ -1,9 +1,11 @@
 # Hello world, I'm Ishpreet 👋
 
-- 🎓 I'm a 4th-year student completing my BSc. in Computer Science at McMaster University in Hamilton, Canada
-- 🌱 I'm currently pursuing my interest in game development and learning to develop in Love Lua
+- 💻 I'm a full-stack software developer based in Toronto, Canada 
+- 🎓 I'm a recent graduate with a BSc. in Computer Science from McMaster University in Hamilton, Canada
+- 🌱 I'm currently pursuing my interest in agentic AI, building my own personal AI agent while working on revamping my virtual portfolio for the nth time
 - ⚡ In my free time, I enjoy playing games and watching movies
 - 📫 Feel free to reach me at [ishpreetnagi@gmail.com](mailto:ishpreetnagi@gmail.com)
+- 👀 While here, see a snake eat my GitHub commit history
 
 ![Snake animation](https://github.com/IshpreetNagi/IshpreetNagi/blob/output/github-contribution-grid-snake-dark.svg)
 
