@@ -1,10 +1,10 @@
-# Hello world, I'm Ishpreet 👋
+# Hello, World!
 
-- 💻 I'm a full-stack software developer based in Toronto, Canada 
-- 🎓 I'm a recent graduate with a BSc. in Computer Science from McMaster University in Hamilton, Canada
-- 🌱 I'm currently building my own personal AI agent while working on revamping my virtual portfolio for the nth time
-- ⚡ In my free time, I enjoy playing games and watching movies
-- 📫 Feel free to reach me at [ishpreetnagi@gmail.com](mailto:ishpreetnagi@gmail.com)
+- 💻 I'm a full-stack software developer
+- 🎓 Graduate with a BSc. in Computer Science from McMaster University
+- 🔨 Currently revamping my personal portfolio for the nth time with major projects in the pipeline
+- ⚡ In my free time, I enjoy photography, games, music, reading, and perfecting my latte
+- 📫 Feel free to reach me at any of my social links or email!
 - 👀 While here, see a snake eat my GitHub commit history
 
 ![Snake animation](https://github.com/IshpreetNagi/IshpreetNagi/blob/output/github-contribution-grid-snake-dark.svg)
