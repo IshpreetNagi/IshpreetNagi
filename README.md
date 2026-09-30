@@ -5,7 +5,12 @@
 - 🔨 Currently revamping my personal portfolio for the nth time with major projects in the pipeline
 - ⚡ In my free time, I enjoy photography, games, music, reading, and perfecting my latte
 - 📫 Feel free to reach me at any of my social links or email!
-- 👀 While here, see a snake eat my GitHub commit history
+
+## Stats
+
+![](https://github.com/IshpreetNagi/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
+
+## Snake
 
 ![Snake animation](https://github.com/IshpreetNagi/IshpreetNagi/blob/output/github-contribution-grid-snake-dark.svg)
 
