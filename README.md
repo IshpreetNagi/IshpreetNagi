@@ -10,6 +10,10 @@
 
 ![](https://github.com/IshpreetNagi/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
 
+<p align="left"><i>
+Generated with <a href="https://github.com/jstrieb/github-stats">jstrieb/github-stats</a>
+</i></p>
+
 ## Snake
 
 ![Snake animation](https://github.com/IshpreetNagi/IshpreetNagi/blob/output/github-contribution-grid-snake-dark.svg)
