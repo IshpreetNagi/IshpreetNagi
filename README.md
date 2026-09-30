@@ -10,17 +10,13 @@
 
 ![](https://github.com/IshpreetNagi/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
 
-<p align="left"><i>
-Generated with <a href="https://github.com/jstrieb/github-stats">jstrieb/github-stats</a>
-</i></p>
+> Generated with [jstrieb/github-stats](https://github.com/jstrieb/github-stats)
 
 ## Snake
 
 ![Snake animation](https://github.com/IshpreetNagi/IshpreetNagi/blob/output/github-contribution-grid-snake-dark.svg)
 
-<p align="left"><i>
-Generated with <a href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid">Platane/snk</a>
-</i></p>
+> Generated with [Platane/snk](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
 
 <!--
 **IshpreetNagi/IshpreetNagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
