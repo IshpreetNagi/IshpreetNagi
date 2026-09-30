@@ -12,7 +12,7 @@
 
 > Generated with [jstrieb/github-stats](https://github.com/jstrieb/github-stats)
 
-## Snake
+## Snake eating my commit history 🐍
 
 ![Snake animation](https://github.com/IshpreetNagi/IshpreetNagi/blob/output/github-contribution-grid-snake-dark.svg)
 
